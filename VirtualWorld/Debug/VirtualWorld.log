@@ -1,0 +1,35 @@
+﻿  Human.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  World.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\world.cpp(135): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Plant.cpp
+c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\organisms\plant.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  Organism.cpp
+c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\organisms\organism.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\organisms\organism.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  Tortoise.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  Antelope.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  Animal.cpp
+c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\organisms\animal.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  c:\users\mjkom\documents\visual studio 2015\projects\virtualworld\virtualworld\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Vector2.cpp
+  VirtualWorld.vcxproj -> C:\Users\mjkom\Documents\Visual Studio 2015\Projects\VirtualWorld\Debug\VirtualWorld.exe
